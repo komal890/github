@@ -1,4 +1,11 @@
 apple
+
 chikki
 water melon
 guava
+=======
+ 
+grapes
+pineapples
+
+>>>>>>> dev
